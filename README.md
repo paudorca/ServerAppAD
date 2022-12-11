@@ -1,3 +1,3 @@
 # ServerAppAD
 
-Cliente
+Servidor 
